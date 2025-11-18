@@ -13,4 +13,3 @@ PROJECT TASK
 6. Reviews by month and brand
 7. Footwear product performance
 8. Clothing product performance
-9. revies by month and brand
