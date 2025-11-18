@@ -140,3 +140,4 @@ SELECT count(*) as count, AVG(revenue) as AVG_REVENUE FROM clothing
 --- AVG revenue of foot wear product is more than clothing by nearly 2000 $ 
 
 
+
