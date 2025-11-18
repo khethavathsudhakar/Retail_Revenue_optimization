@@ -141,3 +141,4 @@ SELECT count(*) as count, AVG(revenue) as AVG_REVENUE FROM clothing
 
 
 
+
